@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {   
-	char Array[10];
+	char Array[100];
 	int i, n;
 	cout<<"Enter the size of the set(TOTAL NO OF VARIBLES ):";
 	cin>>n;
@@ -39,7 +39,7 @@ int main()
 }
  cout<<" RELATION :\n";
 	cout<<" { ";
-	for(i=0;i<n;i++)
+	for(i=0;i<pp;i++)
 	{
 		
 		
